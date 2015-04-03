@@ -1,4 +1,7 @@
-
+/*
+Demonstrate a block of code.
+Call this file BlockDemo.java.
+*/
 class BlockDemo {
 	public static void main(String args[]) {
 		double i, j, d;
